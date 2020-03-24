@@ -1,0 +1,13 @@
+.classpath
+.project
+.settings
+target
+*.zip
+**/test-output
+**/*.retry
+*.retry
+_builds/*.properties
+_builds/*.war
+*.log
+.dbeaver
+Scripts
